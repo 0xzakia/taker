@@ -748,3 +748,12 @@
 2/25/2025 | 8:20:33 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 2/25/2025 | 8:20:33 PM | INFO | Trying to activate mining on-chain for wallet: 0xd57D011F58358aBed659e3f825c38aF9e021275E 
 2/25/2025 | 8:21:14 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xddbda633882f9e4f843b4b72a420af939b3a8e016d7ec80c52e42fcb4878a42f 
+2/26/2025 | 1:24:42 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+2/26/2025 | 1:24:42 AM | INFO | Start process for wallet 0xd57D011F58358aBed659e3f825c38aF9e021275E 
+2/26/2025 | 1:24:43 AM | INFO | Trying To Login for wallet: 0xd57D011F58358aBed659e3f825c38aF9e021275E 
+2/26/2025 | 1:24:44 AM | INFO | Login successful... 
+2/26/2025 | 1:24:44 AM | INFO | Trying to check user info... 
+2/26/2025 | 1:24:45 AM | INFO | User ID: 103200686 | Twitter: @myzakiaa | Total Points: 288000 
+2/26/2025 | 1:24:45 AM | INFO | Trying to check user miner status... 
+2/26/2025 | 1:24:46 AM | INFO | Last mining time: 2/25/2025, 8:21:09 PM
+2/26/2025 | 1:24:46 AM | WARN | Mining already started, next mining time is: 2/26/2025, 8:21:09 PM
