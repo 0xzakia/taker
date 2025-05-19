@@ -5379,3 +5379,12 @@
 5/19/2025 | 8:30:15 AM | INFO | Trying to activate mining on-chain for wallet: 0xd57D011F58358aBed659e3f825c38aF9e021275E 
 5/19/2025 | 8:30:15 AM | ERROR | Activate Mining Error: {"code":"ECONNRESET","path":null,"host":"rpc-mainnet.taker.xyz","port":443}
 5/19/2025 | 8:30:15 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/19/2025 | 12:43:42 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/19/2025 | 12:43:42 PM | INFO | Start process for wallet 0xd57D011F58358aBed659e3f825c38aF9e021275E 
+5/19/2025 | 12:43:43 PM | INFO | Trying To Login for wallet: 0xd57D011F58358aBed659e3f825c38aF9e021275E 
+5/19/2025 | 12:43:44 PM | INFO | Login successful... 
+5/19/2025 | 12:43:44 PM | INFO | Trying to check user info... 
+5/19/2025 | 12:43:45 PM | INFO | User ID: 103200686 | Twitter: @myzakiaa | Total Points: 2016000 
+5/19/2025 | 12:43:45 PM | INFO | Trying to check user miner status... 
+5/19/2025 | 12:43:45 PM | INFO | Last mining time: 5/18/2025, 8:21:21 PM
+5/19/2025 | 12:43:45 PM | WARN | Mining already started, next mining time is: 5/19/2025, 8:21:21 PM
